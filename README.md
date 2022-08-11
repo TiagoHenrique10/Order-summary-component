@@ -17,4 +17,4 @@ Os usuários devem ser capazes de:
 * Fluxo de trabalho móvel 
 * Trazendo boas praticas com o Block Element Modifier (BEM) 
 ### Design desktop:
-![Design preview for the Order summary card coding challenge](./design/desktop-preview.jpg)
+![desktop-design](https://user-images.githubusercontent.com/96561261/184233578-a2a12f47-8e1e-456b-a2d5-0785e80213d4.jpg)
