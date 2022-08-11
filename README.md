@@ -1,10 +1,10 @@
 # Frontend Mentor - Order summary card
 
- ### *Esta é uma solução para o desafio do Componente de código QR no Frontend Mentor. Os desafios do Frontend Mentor ajudam a melhorar suas habilidades de codificação construindo projetos realistas.* 
+ ### *Esta é uma solução para o desafio do Order summary card no Frontend Mentor. Os desafios do Frontend Mentor ajudam a melhorar suas habilidades de codificação construindo projetos realistas.* 
 
 # O desafio do projeto
 
-Seu desafio é construir este Componente de código QR e fazê-lo olhar o mais próximo possível do design. 
+Seu desafio é construir este Componente Order summary card e fazê-lo olhar o mais próximo possível do design. 
 
 Os usuários devem ser capazes de:
 
